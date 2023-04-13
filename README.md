@@ -1,16 +1,17 @@
-### Hi there 👋
+## **👋 Hello everyone !** My name is NORZE
 
-<!--
-**N0rz3/N0rz3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am developer in python (language where I am most adapted)
 
-Here are some ideas to get you started:
+I hope you will like my projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+Mastered laguages : 🐍 Python & ⬜ PMMP
+```
+
+
+My current projects :
+```bash
+$ cd N0rz3\Pinger
+$ cd N0rz3\PyColored
+```
+![25231](https://user-images.githubusercontent.com/123885505/231832010-1acf40d0-6645-4608-b058-c5fd78203f89.png)
