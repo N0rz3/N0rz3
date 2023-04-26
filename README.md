@@ -11,6 +11,7 @@ Mastered laguages : 🐍 Python & ⬜ PMMP
 
 My current projects :
 ```bash
+$ cd N0rz3\GitSint
 $ cd N0rz3\Pinger
 $ cd N0rz3\os-check
 ```
