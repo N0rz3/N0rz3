@@ -4,6 +4,8 @@ I am developer python (language where I am most adapted)
 
 I hope you will like my projects
 
+
+I'm 💖 passionate about 🔎 __osint__ so I make tools related to it.
 ```
 Mastered laguages : 🐍 Python & ⬜ PMMP
 ```
