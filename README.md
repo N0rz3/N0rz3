@@ -14,6 +14,7 @@ Mastered laguages : 🐍 Python & ⬜ PMMP
 My current projects :
 ```bash
 $ cd N0rz3\GitSint
+$ cd N0rz3\Inspector
 $ cd N0rz3\os-check
 ```
 ![25231](https://user-images.githubusercontent.com/123885505/231832010-1acf40d0-6645-4608-b058-c5fd78203f89.png)
