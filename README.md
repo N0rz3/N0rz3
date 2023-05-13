@@ -7,7 +7,7 @@ I hope you will like my projects
 
 I'm 💖 passionate about 🔎 __osint__ so I make tools related to it.
 ```
-Mastered laguages : 🐍 Python & ⬜ PMMP
+Mastered laguages : 🐍 Python & ⬜ PMMP (php minecraft mcpe)
 ```
 
 
