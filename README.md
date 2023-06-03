@@ -11,7 +11,7 @@ Mastered laguages : 🐍 Python & ⬜ PMMP (php minecraft mcpe)
 ```
 
 
-My current projects :
+My projects :
 ```bash
 $ cd N0rz3\GitSint   [osint-tool]
 $ cd N0rz3\Inspector [osint-tool]
