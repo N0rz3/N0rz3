@@ -15,7 +15,6 @@ My projects :
 ```bash
 $ cd N0rz3\GitSint   [osint-tool]
 $ cd N0rz3\Inspector [osint-tool]
-$ cd N0rz3\W-SCAN    [osint-tool]
 $ cd N0rz3\Vinted-webhook    [vinted-bot]
 $ cd N0rz3\Pluton    [osint-tool]
 $ cd N0rz3\NameSint  [osint-tool]
