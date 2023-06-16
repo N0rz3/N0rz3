@@ -1,6 +1,6 @@
 ## **👋 Hello everyone !** My name is NORZE
 
-I developed in python (language where I am most adapted)
+I develope in python (language where I am most adapted)
 
 I hope you will like my projects
 
