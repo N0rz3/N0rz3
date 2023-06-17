@@ -1,5 +1,7 @@
-## **👋 Hello everyone !** My name is NORZE
-
+<h1>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  Hello everyone I introduce myself, I am Norze and I like programmed. I am 13 years old and I like python👨‍💻 🐍 
+</h1>
 I develope in python (language where I am most adapted)
 
 I hope you will like my projects
