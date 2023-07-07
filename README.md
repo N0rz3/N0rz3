@@ -1,5 +1,6 @@
 # Hello everyone I introduce myself, I am Norze and I like programmed. I am 13 years old and I like python👨‍💻 🐍
 
+![Profile Views](https://komarev.com/ghpvc/?username=N0rz3&color=blueviolet)
 
 ![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=N0rz3&show_icons=true&theme=dark)
 
