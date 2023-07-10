@@ -3,6 +3,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=N0rz3&color=blueviolet)
 
 ![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=N0rz3&show_icons=true&theme=tokyonight)
+![Languages GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=N0rz3)
 
 **Don't hesitate to take a look at my projects 👍  !**
 
