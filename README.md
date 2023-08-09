@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=N0rz3&color=blueviolet)
 
-
+![](https://github-readme-stats.vercel.app/api?username=N0rz3&show_icons=true&hide_border=true&theme=dark)
 
 **Don't hesitate to take a look at my projects 👍  !**
 
