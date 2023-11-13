@@ -1,4 +1,4 @@
-# Hello everyone I introduce myself, I am Norze and I like programmed. I am 14 years old and I like python👨‍💻 🐍
+# Hello everyone I introduce myself, I am Norze and I like programming. I am 14 years old and I like python👨‍💻 🐍
 
 ![Profile Views](https://komarev.com/ghpvc/?username=N0rz3&color=blueviolet)
 
